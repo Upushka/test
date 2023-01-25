@@ -3,8 +3,8 @@ $('.slider').slick({
     speed: 1000,
     slidesToShow: 1,
     autoplay: true,
-    nextArrow: '<img src="images/slider/right.png" alt="">',
-    prevArrow: '<img src="images/slider/left.png" alt="">',
+    nextArrow: '<img src="images/slider/left.png" alt="">',
+    prevArrow: '<img src="images/slider/right.png" alt="">',
     responsive: [
         {
             breakpoint: 768,
