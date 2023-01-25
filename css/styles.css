@@ -299,7 +299,7 @@ h4 {
     color: #1f1f1f;
 }
 
-.slider .slick-arrow:nth-child(1) {
+.slider .slick-arrow:nth-child(3) {
     width: 80px;
     position: absolute;
     top: calc(50% - 40px);
@@ -308,7 +308,7 @@ h4 {
     cursor: pointer;
 }
 
-.slider .slick-arrow:nth-child(3) {
+.slider .slick-arrow:nth-child(1) {
     width: 80px;
     position: absolute;
     top: calc(50% - 40px);
